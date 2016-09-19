@@ -1,0 +1,19 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "globule": "^1.0.0",
+    "images": "^3.0.0",
+    "pngjs-image": "^0.11.6",
+    "readimage": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
